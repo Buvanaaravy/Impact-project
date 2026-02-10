@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+librosa
+soundfile
+moviepy
+opencv-python
+scikit-learn
+openpyxl
